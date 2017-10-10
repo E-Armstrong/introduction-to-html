@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(100, 150, 237);
+}
+
+h1 {
+    color: grey;
+    height: 40px;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+
+p {
+    font-size: 16px;
+    font-family: san-serif;
+    color: red;
+}
+
+.burly {
+    color: burlywood;
+    font-size: 22px;
+}
